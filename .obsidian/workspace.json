@@ -6,16 +6,20 @@
       {
         "id": "5b58f9b79b4d2f30",
         "type": "tabs",
-        "dimension": 41.19547657512116,
+        "dimension": 57.431340872374804,
         "children": [
           {
             "id": "75f3adcc66f2ea21",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Control Overview.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Control Overview"
             }
           }
         ]
@@ -23,7 +27,7 @@
       {
         "id": "e946a90638d07f6f",
         "type": "tabs",
-        "dimension": 58.80452342487884,
+        "dimension": 42.5686591276252,
         "children": [
           {
             "id": "5135b1bfc12eb667",
@@ -187,10 +191,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "5135b1bfc12eb667",
+  "active": "75f3adcc66f2ea21",
   "lastOpenFiles": [
-    "speed control..md",
+    "Control Overview.md",
+    "Pure Pursuit.md",
     "PID Control.md",
+    "ROS (Robot Operating Software).md",
+    "speed control..md",
     "**speed control.**.md"
   ]
 }
