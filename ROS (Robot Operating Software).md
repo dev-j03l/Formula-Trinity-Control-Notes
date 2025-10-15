@@ -66,4 +66,3 @@ public:
 - Use **YAML Parameters** to tune behavior without touching code. 
 - ROS2 Tutorials: docs.ros.org/en/humble/Tutorials
 - Ackermann Steering in ROS2: [`ackermann_msgs`](https://github.com/ros-drivers/ackermann_msgs)
-- 
